@@ -1,0 +1,4 @@
+# sql/parquet.sql on orders_50m (808 MB Parquet file). Second run of each query reported.
+copy_to_parquet_ms,8555.048
+daily_parquet_ms,81.117
+per_customer_parquet_ms,2241.335
